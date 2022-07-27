@@ -1,0 +1,20 @@
+variable: una variable podriamos decir que es como una casilla donde podemos almacenar un valor,
+y ademas a dicha casilla le podemos asignar un nombre para luego ser llamada.
+
+string: los string son bloques de texto, siempre van entre comillas, alli podemos poner letras, palabras,
+simbolos, etc y el interprete lo va a tomar como una cadena de texto.
+
+Funciones: en las funciones lo que hacemos es tomar las variables y alli poder hacer algo con ellas, ya sea
+sumarlas, multiplicarlas, etc. a las funciones generalmente hay que darle un nombre que las describa para 
+una lectura mas facil del codigo.
+
+Argumento: los argumentos son datos que le damos a las funciones para poder trabajar.
+
+Return: como la palabra lo dice es lo que queremos retornar de una funcion, es decir el valor que obtenemos 
+de una funcion.
+
+Declaraciones IF: el condicionante if lo usamos cuando queremos comprar dos falores, si dicha comparacion
+es true se ejecuta algun procedimiento, y si es falsa se lo saltea y continua.
+
+Valores Booleanos: los valores booleanos en javascrip son el True para algo positivo y el valor False 
+para algo negativo.
