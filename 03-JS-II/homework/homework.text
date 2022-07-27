@@ -1,0 +1,10 @@
+For: es un bucle es decir operacion que se repite sierta cantidad de veces hasta 
+obtener el resultado deseado, para un bucle for necesitamos una variable, una condicion de salida
+del bucle y un incremento en la variable.
+
+expresion &&: significa "Y", es decir necesito que se cumplan ambas condiciones para que sea verdadero.
+
+expresion ||: significa "O", es decir necesito se cualquiera de las codiciones para ser verdadero.
+
+expresion !: significa "NOT", es decir camiba el significado de lo que le sigue, por ejemplo
+!true pasa a ser false.
