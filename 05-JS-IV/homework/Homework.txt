@@ -1,0 +1,17 @@
+objetos: Un objeto es una colección de propiedades, y las propiedades estan compuestas
+por una key o clave y un valor, en palabras mas sencillas un ejemplo de un objeto seria
+una taza la cual tiene una "clave" color y el "valor" puede ser azul por ejemplo. y ademas 
+la taza no solo tien color si no tamaño, forma, etc. es decir que un objeto puede poseer muchas
+propiedades.
+
+propiedades: una propiedas es una asociación entre un nombre (o clave) y un valor.
+
+metodos: el metodo es cuando el valor de la propiedad posee una funcion.
+
+bucle for in: cuando queremos iterar entre cada clave-valor del objeto no podemos usar el bucle for
+convencional por que no tenemos una asignacion numerica para cada propiedad. entonces lo que hace el 
+bucle for in es recorre todas las claves del objeto hasta iterar todas las claves.
+
+Notación de puntos vs notación de corchetes: en la notacion por punto yo no puedo ivocar a una variable
+que este declarada fuera del objeto, en cambio en la notacion por corchetes si. la notacion por puntos 
+es mas facil y rapida de escribir. 
