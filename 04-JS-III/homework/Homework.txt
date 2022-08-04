@@ -1,0 +1,3 @@
+Array: un array es muy parecido a una lista donde podemos ir agregando o quitando datos ( los datos
+pueden ser numeros, string, booleanos) a cada dato se le asigna una posicion la cual comienza desde
+el cero, los array nos sirven para almacenar muchos datos dentro de una variable.
